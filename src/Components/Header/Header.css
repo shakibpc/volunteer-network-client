@@ -1,0 +1,12 @@
+.logo{
+    height: 50px;
+}
+.text{
+    color: black;
+}
+
+.navbar-brand{
+    margin-right: 40rem;
+    margin-left: 8rem;
+    font: 5em bold;
+}

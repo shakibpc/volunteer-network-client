@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box !important;
+    margin: 0;
+    padding: 0;
+  }
+  .register {
+    background-color: #ebecf0;
+    height: 100vh;
+  }
+  .register form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px 40px;
+  }
+
+ .registerBtn {
+    background-color: #04134f;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 30px;
+    -webkit-transition: box-shadow 0.5s;
+    transition: 0.4s;
+  }
+  .registerBtn:hover {
+    color: red;
+    box-shadow: -2px -2px 5px #fff, 2px 2px 5px #babecc;
+  }
+  .logo-container img {
+    width: 30%;
+  }
+  .warning {
+    color: red;
+  }
